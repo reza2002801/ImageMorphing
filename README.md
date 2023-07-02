@@ -1,8 +1,5 @@
 # Image Morphing Project
 
-<p align="center">
-<img src="url_of_your_gif" alt="Morphing Demonstration"/>
-</p>
 
 Image morphing is a mesmerizing process that morphs one image into another, generating a series of intermediate images that represent a gradual metamorphosis between the two images.
 
