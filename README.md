@@ -1,6 +1,8 @@
 # Image Morphing Project
 
-
+<p align="center">
+  <img src="Studio_Project_V1.gif" alt="Project Demo" width="500" />
+</p>
 Image morphing is a mesmerizing process that morphs one image into another, generating a series of intermediate images that represent a gradual metamorphosis between the two images.
 
 ## 🚀 Overview 
@@ -28,5 +30,3 @@ Usage is simple to allow your creativity to flow uninterrupted:
 - Place your `initial` image (`res01.jpg`) and `final` image (`res02.jpg`) in the same directory as the script.
 
 - Define the corresponding points in the two images and store them in `first.txt` and `second.txt` files, respectively. Every line hosts x and y coordinates, separated by three spaces.
-
-![this would be the out-put](Studio_Project_V1.gif)
